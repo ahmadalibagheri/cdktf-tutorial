@@ -27,7 +27,7 @@ We have a plan to deploy some resoruces on all public cloud such as AWS, Azure a
 
  - [Typescript CDKTF - Part 3 - Create VPC Configuration](https://github.com/ahmadalibagheri/cdktf-typescript-aws-vpc)
 
- - [Typescript CDKTF - Part 4 - Create Vagrant image] ()
+ - [Typescript CDKTF - Part 4 - Create KMS Encryption] (https://github.com/ahmadalibagheri/cdktf-typescript-aws-kms)
 
  - [Typescript CDKTF - Part 5 - Create VirtualBox image]()
 
