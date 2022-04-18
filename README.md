@@ -19,7 +19,7 @@ We have a plan to deploy some resoruces on all public cloud such as AWS, Azure a
 
 # AWS Resoruces
 
-### Typescript CDKTF:
+## Typescript CDKTF:
 
  - [Typescript CDKTF - Part 1 - Create Basic EC2 with Security Group](https://github.com/ahmadalibagheri/cdktf-typescript-aws-ec2)
 
