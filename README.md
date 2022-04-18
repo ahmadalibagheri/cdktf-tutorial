@@ -21,11 +21,11 @@ We have a plan to deploy some resoruces on all public cloud such as AWS, Azure a
 
 ## Typescript CDKTF:
 
- - [Typescript CDKTF - Part 1 - Create Basic EC2 with Security Group](https://github.com/ahmadalibagheri/cdktf-typescript-aws-ec2)
+ - [Typescript CDKTF - Part 1 - Create EC2 with Security Group](https://github.com/ahmadalibagheri/cdktf-typescript-aws-ec2)
 
- - [Typescript CDKTF - Part 2 - Create Basic Ubuntu image with Ansible config on AWS]()
+ - [Typescript CDKTF - Part 2 - Create IAM configuration](https://github.com/ahmadalibagheri/cdktf-typescript-aws-iam)
 
- - [Typescript CDKTF - Part 3 - Create paraller image with to different provider]()
+ - [Typescript CDKTF - Part 3 - Create VPC Configuration](https://github.com/ahmadalibagheri/cdktf-typescript-aws-vpc)
 
  - [Typescript CDKTF - Part 4 - Create Vagrant image] ()
 
