@@ -4,8 +4,8 @@ deploy many cdktf sample codes on all public cloud
 # Packer-tutorial
 
 <p align="center" style="text-align:center;">
-  <a href="https://www.packer.io">
-    <img alt="HashiCorp Packer logo" src="image/logo-packer-padded.svg" width="500" />
+  <a href="https://www.terraform.io/cdktf">
+    <img alt="HashiCorp CDKTF logo" src="image/cdktf.png" width="500" />
   </a>
 </p>
 
