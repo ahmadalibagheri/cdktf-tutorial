@@ -37,6 +37,17 @@ We have a plan to deploy some resoruces on all public cloud such as AWS, Azure a
 
  - [Typescript CDKTF - Part 8 - Create Azure image]() InProgress
 
+## Python CDKTF:
+
+ - [Python CDKTF - Part 1 - Create Basic EC2 with Security Group](https://github.com/ahmadalibagheri/cdktf-typescript-aws-ec2)
+
+ - [Python CDKTF - Part 2 - Create Basic Ubuntu image with Ansible config on AWS]()
+
+## JAVA CDKTF:
+
+ - [JAVA CDKTF - Part 1 - Create Basic EC2 with Security Group](https://github.com/ahmadalibagheri/cdktf-typescript-aws-ec2)
+
+ - [JAVA CDKTF - Part 2 - Create Basic Ubuntu image with Ansible config on AWS]()
 
 ## Contributions:
 
