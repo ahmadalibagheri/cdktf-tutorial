@@ -1,11 +1,11 @@
-# cdktf-tutorial
+# CDKTF-tutorial
 Cloud Development Kit for Terraform (CDKTF) allows you to use familiar programming languages to define and provision infrastructure. This gives you access to the entire Terraform ecosystem without learning HashiCorp Configuration Language (HCL) and lets you leverage the power of your existing toolchain for testing, dependency management, etc.
 
 We currently support TypeScript, Typescript, Java, C#, and Go (experimental).
 
 We have a plan to deploy some resoruces on all public cloud such as AWS, Azure and GCP.
 
-# Packer-tutorial
+
 
 <p align="center" style="text-align:center;">
   <a href="https://www.terraform.io/cdktf">
@@ -17,7 +17,7 @@ We have a plan to deploy some resoruces on all public cloud such as AWS, Azure a
 
 * Explore the CDKTF [CLI](https://learn.hashicorp.com/tutorials/terraform/cdktf-install?in=terraform/cdktf)
 
-## AWS Resoruces
+# AWS Resoruces
 
 ### Typescript CDKTF:
 
