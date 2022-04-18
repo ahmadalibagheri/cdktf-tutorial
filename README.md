@@ -3,6 +3,8 @@ Cloud Development Kit for Terraform (CDKTF) allows you to use familiar programmi
 
 We currently support TypeScript, Python, Java, C#, and Go (experimental).
 
+We have a plan to deploy some resoruces on all public cloud such as AWS, Azure and GCP.
+
 # Packer-tutorial
 
 <p align="center" style="text-align:center;">
