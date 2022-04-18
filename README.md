@@ -1,7 +1,7 @@
 # cdktf-tutorial
 Cloud Development Kit for Terraform (CDKTF) allows you to use familiar programming languages to define and provision infrastructure. This gives you access to the entire Terraform ecosystem without learning HashiCorp Configuration Language (HCL) and lets you leverage the power of your existing toolchain for testing, dependency management, etc.
 
-We currently support TypeScript, Python, Java, C#, and Go (experimental).
+We currently support TypeScript, Typescript, Java, C#, and Go (experimental).
 
 We have a plan to deploy some resoruces on all public cloud such as AWS, Azure and GCP.
 
@@ -17,23 +17,25 @@ We have a plan to deploy some resoruces on all public cloud such as AWS, Azure a
 
 * Explore the CDKTF [CLI](https://learn.hashicorp.com/tutorials/terraform/cdktf-install?in=terraform/cdktf)
 
-## Published articles:
+## AWS Resoruces
 
- - [Packer Tutorial - Part 1 - Create Basic EKS image on AWS]()
+### Typescript CDKTF:
 
- - [Packer Tutorial - Part 2 - Create Basic Ubuntu image with Ansible config on AWS]()
+ - [Typescript CDKTF - Part 1 - Create Basic EC2 with Security Group](https://github.com/ahmadalibagheri/cdktf-typescript-aws-ec2)
 
- - [Packer Tutorial - Part 3 - Create paraller image with to different provider]()
+ - [Typescript CDKTF - Part 2 - Create Basic Ubuntu image with Ansible config on AWS]()
 
- - [Packer Tutorial - Part 4 - Create Vagrant image] ()
+ - [Typescript CDKTF - Part 3 - Create paraller image with to different provider]()
 
- - [Packer Tutorial - Part 5 - Create VirtualBox image]()
+ - [Typescript CDKTF - Part 4 - Create Vagrant image] ()
 
- - [Packer Tutorial - Part 6 - Create VMware vSphere image]()
+ - [Typescript CDKTF - Part 5 - Create VirtualBox image]()
 
- - [Packer Tutorial - Part 7 - Create LXC image]() InProgress
+ - [Typescript CDKTF - Part 6 - Create VMware vSphere image]()
 
- - [Packer Tutorial - Part 8 - Create Azure image]() InProgress
+ - [Typescript CDKTF - Part 7 - Create LXC image]() InProgress
+
+ - [Typescript CDKTF - Part 8 - Create Azure image]() InProgress
 
 
 ## Contributions:
