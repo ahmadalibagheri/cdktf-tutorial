@@ -13,7 +13,7 @@ We currently support TypeScript, Python, Java, C#, and Go (experimental).
 
 ## Documentation
 
-* Explore the Packer for Packer [CLI](https://www.packer.io/downloads) >= v1.8.0+
+* Explore the CDKTF [CLI](https://learn.hashicorp.com/tutorials/terraform/cdktf-install?in=terraform/cdktf)
 
 ## Published articles:
 
