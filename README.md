@@ -27,15 +27,9 @@ We have a plan to deploy some resoruces on all public cloud such as AWS, Azure a
 
  - [Typescript CDKTF - Part 3 - Create VPC Configuration](https://github.com/ahmadalibagheri/cdktf-typescript-aws-vpc)
 
- - [Typescript CDKTF - Part 4 - Create KMS Encryption] (https://github.com/ahmadalibagheri/cdktf-typescript-aws-kms)
+ - [Typescript CDKTF - Part 4 - Create KMS Encryption](https://github.com/ahmadalibagheri/cdktf-typescript-aws-kms)
 
- - [Typescript CDKTF - Part 5 - Create VirtualBox image]()
-
- - [Typescript CDKTF - Part 6 - Create VMware vSphere image]()
-
- - [Typescript CDKTF - Part 7 - Create LXC image]() InProgress
-
- - [Typescript CDKTF - Part 8 - Create Azure image]() InProgress
+ - [Typescript CDKTF - Part 5 - Create S3 Bucket](https://github.com/ahmadalibagheri/cdktf-typescript-aws-s3bucket)
 
 ## Python CDKTF:
 
